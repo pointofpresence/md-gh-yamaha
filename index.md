@@ -1,4 +1,4 @@
-# Фишки FL Studio
-<!-- copyright: ReSampled 3 -->
+# Yamaha PSR goodies
+<!-- copyright: SeeJay & ReSampled -->
 
-# Piano roll
+# Start here
