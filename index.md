@@ -8,3 +8,4 @@
 
 http://sintezator-online.ru/forum/igraem-na-sintezatore/147-ispolzovanie-multipedov-multi-pads
 https://yadi.sk/d/UlDShjRCmdmf2
+https://www.psrtutorial.com/sty/MP/mpYamaha.html
