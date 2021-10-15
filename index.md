@@ -17,3 +17,4 @@
 # Chord Tracker
 * [Yamaha Chord Tracker app](http://usa.yamaha.com/products/apps/chord_tracker/)
 * [Chord Tracker revealed](https://sandsoftwaresound.net/chord-tracker-revealed/)
+* [Chord Tracker Owner's Manual](https://usa.yamaha.com/files/download/other_assets/1/969641/chord_tracker_en_om.pdf)
