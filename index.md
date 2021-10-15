@@ -2,6 +2,7 @@
 <!-- copyright: SeeJay & ReSampled -->
 
 # Docs
+* [Школа продвинутого пользователя Yamaha PSR](/school.html)
 * [Frequently Asked Questions: PSRs & Tyros](https://www.psrtutorial.com/MB/zips/FAQ%202016.pdf)
 * [PSR-SX900/SX700 Data List](https://hu.yamaha.com/files/download/other_assets/3/1279213/psrsx900_sx700_en_dl_a0.pdf)
 * [PSR-SX900/SX700 Справочное руководство](https://ru.yamaha.com/files/download/other_assets/8/1370778/psrsx900_sx700_ru_rm_a0.pdf)
