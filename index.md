@@ -18,3 +18,6 @@
 * [Yamaha Chord Tracker app](http://usa.yamaha.com/products/apps/chord_tracker/)
 * [Chord Tracker revealed](https://sandsoftwaresound.net/chord-tracker-revealed/)
 * [Chord Tracker Owner's Manual](https://usa.yamaha.com/files/download/other_assets/1/969641/chord_tracker_en_om.pdf)
+
+# Yamaha Expansion Manager
+* [Yamaha Expansion Manager Owner’s Manual](https://ru.yamaha.com/files/download/other_assets/2/1396982/yamaha_expansion_manager_en_om_v280_k0.pdf)
