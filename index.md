@@ -10,9 +10,9 @@
 * [Audio Phraser Owner’s Manual](https://usa.yamaha.com/files/download/other_assets/5/1179085/audio_phraser_en_om_a0.pdf)
 
 # Multipads
-* [ispolzovanie-multipedov-multi-pads](http://sintezator-online.ru/forum/igraem-na-sintezatore/147-ispolzovanie-multipedov-multi-pads)
+* [ТЕМА: Использование мультипэдов (Multi Pads)](http://sintezator-online.ru/forum/igraem-na-sintezatore/147-ispolzovanie-multipedov-multi-pads)
 * [Multipads collection](https://yadi.sk/d/UlDShjRCmdmf2)
-* [mpYamaha.html](https://www.psrtutorial.com/sty/MP/mpYamaha.html)
+* [Yamaha's Multi Pad Files](https://www.psrtutorial.com/sty/MP/mpYamaha.html)
 
 # Chord Tracker
 * [Yamaha Chord Tracker app](http://usa.yamaha.com/products/apps/chord_tracker/)
