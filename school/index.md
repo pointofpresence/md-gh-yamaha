@@ -812,7 +812,7 @@ EXTRA PART 1/ EXTRA PART 2/ EXTRA PART 3/ EXTRA PART 4/ EXTRA PART 5/
 6.1.Зайти в SONG CREATOR/SHANELL/5 SET UP/.
 6.2.Перемотать Кнопкой Вперед >> в SONG Player-e такты на <SONG POSITION> 024 BAR.
 При этом в окошке SELECT (где галочки) останется активным только один параметр «KEYBOARD VOICE» (все остальные будут не доступны, их можно записывать только в голове файла т.е. в Position 001).
-6.3.Поставьте у «KEYBOARD VOICE» галочку <MARK ON>.
+6.3.Поставьте у «KEYBOARD VOICE» галочку `MARK ON`.
 6.4.Перейдите в MIXING CONSOLE(PANEL PART)
 6.5.Задайте настройки для VOICE MAIN ( можно одновременно и для LAYER и LEFT) всеми доступными кнопками и ручками микшера, проверяя результат звучание на клавиатуре.
 6.6.Вернитесь в экран <SONG CREATOR> для чего нажать кнопку <EXIT>.
