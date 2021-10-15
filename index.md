@@ -4,6 +4,7 @@
 # Docs
 * [Frequently Asked Questions: PSRs & Tyros](https://www.psrtutorial.com/MB/zips/FAQ%202016.pdf)
 * [PSR-SX900/SX700 Data List](https://hu.yamaha.com/files/download/other_assets/3/1279213/psrsx900_sx700_en_dl_a0.pdf)
+* [PSR-SX900/SX700 Справочное руководство](https://ru.yamaha.com/files/download/other_assets/8/1370778/psrsx900_sx700_ru_rm_a0.pdf)
 
 # Audio Phraser
 * [Audio Phraser Installation Guide](https://usa.yamaha.com/files/download/other_assets/6/1179086/audio_phraser_en_ig_a0.pdf)
