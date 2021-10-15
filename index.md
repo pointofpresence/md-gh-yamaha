@@ -11,7 +11,7 @@
 
 # Multipads
 * [ТЕМА: Использование мультипэдов (Multi Pads)](http://sintezator-online.ru/forum/igraem-na-sintezatore/147-ispolzovanie-multipedov-multi-pads)
-* [Multipads collection](https://yadi.sk/d/UlDShjRCmdmf2)
+* Multipads collection: [Link 1](https://yadi.sk/d/UlDShjRCmdmf2) | [Link 2](/downloads/pads.rar)
 * [Yamaha's Multi Pad Files](https://www.psrtutorial.com/sty/MP/mpYamaha.html)
 
 # Chord Tracker
