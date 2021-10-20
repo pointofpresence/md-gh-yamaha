@@ -16,7 +16,8 @@
 * [OTS Editor](http://www.jososoft.dk/yamaha/software/otseditor/index.htm) is a software for editing all parameters in OTS sections in Yamaha keyboard style files.
 * [Style Duplicates Manager](http://www.jososoft.dk/yamaha/software/sdm/index.htm) is a program for managing Yamaha keyboard style files. This program will list duplicate Yamaha keyboard style files and allow the user to delete these - or to move or copy these to user selected folders.
 * [PSR Style Database and Midi Database](http://www.wierzba.homepage.t-online.de/psd/psdmain.htm)  is for managing collections of style files (.sty, .bcs, .fps, .pcs, .prs, .pst, .scp, .sst) and midi files (.mid, .kar)
-* [Other tools](http://www.jososoft.dk/yamaha/software/software.htm)
+* [Other tools by jososoft](http://www.jososoft.dk/yamaha/software/software.htm)
+* [Yamaha's good old XG Works 3.0.7E](http://www.xg-central.com/xgc-software.php)
 
 # Audio Phraser
 * [Audio Phraser Installation Guide](https://usa.yamaha.com/files/download/other_assets/6/1179086/audio_phraser_en_ig_a0.pdf)
